@@ -10,7 +10,6 @@ Sou apaixonado por tecnologia e estou determinado a seguir carreira na área, ex
 
 ---
 
-### 🤖 Linguagens e Tecnologias
 
 ### 🤖 Linguagens e Tecnologias
 
