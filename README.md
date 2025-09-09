@@ -21,10 +21,10 @@
 
 ### 🧠 Sobre mim
 
-- 👨‍💻 Estudando para me tornar um desenvolvedor full stack
-- 📌 Focado em melhorar minhas habilidades em **JavaScript** e **PHP com Laravel**
-- 🛠️ Praticando com projetos próprios para aplicar o que aprendo
-- 🎯 Objetivo: conseguir meu primeiro estágio na área de desenvolvimento
+- 👨‍💻 Estudando para me tornar um desenvolvedor full stack  
+- 📌 Focado em melhorar minhas habilidades em **JavaScript** e **PHP com Laravel**  
+- 🛠️ Praticando com projetos próprios para aplicar o que aprendo  
+- 🎯 Objetivo: conseguir meu primeiro estágio na área de desenvolvimento  
 
 ---
 
@@ -34,8 +34,19 @@
   <a href="mailto:phvg0403@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+---
 
 ### 📈 Estatísticas do GitHub
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=github_
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueVgDev&show_icons=true&theme=github_dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueVgDev&layout=compact&langs_count=7&theme=github_dark"/>
+</p>
+
+---
+
+<p align="center">
+  Feito com 💙 por <strong>Pedro Henrique</strong>
+</p>
