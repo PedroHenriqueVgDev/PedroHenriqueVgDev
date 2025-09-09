@@ -40,13 +40,13 @@
 
 ### 📈 Estatísticas do GitHub
 
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueVgDev&show_icons=true&theme=github_dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueVgDev&layout=compact&langs_count=7&theme=github_dark"/>
-</p>
-
----
-
-<p align="center">
-  Feito com 💙 por <strong>Pedro Henrique</strong>
-</p>
+<table>
+  <tr>
+    <td>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueVgDev&show_icons=true&theme=github_dark" />
+    </td>
+    <td>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueVgDev&layout=compact&langs_count=7&theme=github_dark"/>
+    </td>
+  </tr>
+</table>
