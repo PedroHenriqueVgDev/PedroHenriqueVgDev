@@ -1,30 +1,41 @@
-### 🚀 Pedro Henrique  
-**Desenvolvedor Back-End (Iniciante)**  
+<h1 align="center">Olá! 👋 Me chamo Pedro Henrique</h1>
 
-Tenho 17 anos, moro no Rio de Janeiro e estou iniciando minha jornada como desenvolvedor Back-End. Atualmente estudo PHP e estou me preparando para trabalhar com o framework Laravel. Estou focado em aprender os fundamentos do desenvolvimento de servidores, APIs, bancos de dados e boas práticas de código.  
-
-Sou apaixonado por tecnologia e determinado a seguir carreira na área, explorando novas linguagens, frameworks e práticas modernas de desenvolvimento.
-
----
-
-### 🧠 Conhecimentos
-
-- Desenvolvimento Back-End com **PHP**
-- Fundamentos de **Laravel**
-- Criação de APIs REST
-- Banco de dados com **MySQL**
-- **HTML5** (estruturação de páginas e semântica)
-- Noções básicas de **CSS** (estilização simples)
-- Noções básicas de **JavaScript**
-- Noções de sintaxe em **Python**
+<p align="center">
+🎓 Estudante do Ensino Médio apaixonado por tecnologia.<br>
+📚 Em constante aprendizado no mundo da programação e desenvolvimento web.
+</p>
 
 ---
 
-### 💻 Linguagens e Tecnologias
+### 🚀 Tecnologias que estou estudando:
 
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)]()
-[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)]()
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)]()
-[![CSS3 (Básico)](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)]()
-[![JavaScript (Básico)](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)]()
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+---
+
+### 🧠 Sobre mim
+
+- 👨‍💻 Estudando para me tornar um desenvolvedor full stack
+- 📌 Focado em melhorar minhas habilidades em **JavaScript** e **PHP com Laravel**
+- 🛠️ Praticando com projetos próprios para aplicar o que aprendo
+- 🎯 Objetivo: conseguir meu primeiro estágio na área de desenvolvimento
+
+---
+
+### 📫 Vamos nos conectar:
+
+<p align="left">
+  <a href="mailto:phvg0403@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+### 📈 Estatísticas do GitHub
+
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=github_
