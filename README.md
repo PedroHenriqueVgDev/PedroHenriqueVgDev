@@ -22,7 +22,6 @@
 ### 🧠 Sobre mim
 
 - 👨‍💻 Estudando para me tornar um desenvolvedor full stack  
-- 📌 Focado em melhorar minhas habilidades em **JavaScript** e **PHP com Laravel**  
 - 🛠️ Praticando com projetos próprios para aplicar o que aprendo  
 - 🎯 Objetivo: conseguir meu primeiro estágio na área de desenvolvimento  
 
@@ -37,17 +36,4 @@
 </p>
 
 ---
-
-### 📈 Estatísticas do GitHub
-<table>
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueVgDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </td>
-    <td>
-      <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueVgDev&layout=compact&langs_count=8&theme=dark"/>
-    </td>
-  </tr>
-</table>
-
 
