@@ -31,7 +31,7 @@
 
 - 👨‍💻 Estudante em busca de me tornar **Desenvolvedor Back-End**  
 - 🛠️ Pratico com projetos próprios e desafios para aplicar o que aprendo  
-- 📖 Atualmente estudando **PHP, Laravel e Banco de Dados (MySQL)**  
+- 📖 Atualmente estudando **Laravel e Banco de Dados (MySQL)**  
 - 🎯 Objetivo: conquistar meu primeiro estágio como desenvolvedor e crescer na área  
 
 ---
