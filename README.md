@@ -1,7 +1,6 @@
 <h1 align="center">Olá, eu sou o Pedro Henrique 👋</h1>
 
 <p align="center">
-🎓 Estudante do Ensino Médio | 💻 Apaixonado por tecnologia e programação<br>
 🚀 Focado em desenvolvimento <strong>Back-End</strong> e na construção de soluções escaláveis
 </p>
 
@@ -23,15 +22,6 @@
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
----
-
-### 🧠 Sobre mim
-
-- 👨‍💻 Estudante em busca de me tornar **Desenvolvedor Back-End**  
-- 🛠️ Pratico com projetos próprios e desafios para aplicar o que aprendo  
-- 📖 Atualmente estudando **Laravel e Banco de Dados (MySQL)**  
-- 🎯 Objetivo: conquistar meu primeiro estágio como desenvolvedor e crescer na área  
 
 ---
 
