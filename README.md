@@ -1,9 +1,3 @@
-<h1 align="center">Olá, eu sou o Pedro Henrique 👋</h1>
-
-<p align="center">
-🚀 Focado em desenvolvimento <strong>Back-End</strong> e na construção de soluções escaláveis
-</p>
-
 ---
 
 ### ⚙️ Tecnologias e Ferramentas
