@@ -1,6 +1,6 @@
 ---
 
-### ⚙️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <p align="left">
   <!-- Backend -->
@@ -18,7 +18,7 @@
 
 ---
 
-### 📫 Como me encontrar
+###  Como me encontrar
 
 <p align="left">
   <a href="mailto:phvg0403@gmail.com">
